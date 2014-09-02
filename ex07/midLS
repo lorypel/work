@@ -1,0 +1,10 @@
+#/bin/bash
+for file in $(ls -t)
+do 
+if [ -d "$file" ]; then
+echo -n $file"/, "
+else
+echo -n $file", "
+fi
+done
+echo ""

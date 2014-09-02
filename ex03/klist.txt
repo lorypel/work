@@ -1,0 +1,20 @@
+Ticket cache: FILE:/tmp/krb5cc_252_whnbQ0
+Default principal: bozo@MSC.CORNELL.EDU
+
+Valid starting     Expires            Service principal
+06/21/04 14:45:15  07/21/04 14:45:15  krbtgt/MSC.CORNELL.EDU@MSC.CORNELL.EDU
+        renew until 07/21/04 14:45:15
+06/21/04 14:45:16  07/21/04 14:45:15  krbtgt/MSC.CORNELL.EDU@MSC.CORNELL.EDU
+        renew until 07/21/04 14:45:15
+ 
+Ticket file:    /tmp/tkt252_EHLa4q
+Principal:      bozo@MSC.CORNELL.EDU
+
+  Issued           Expires          Principal
+Jun 21 14:45:15  Jul 21 14:45:15  krbtgt.MSC.CORNELL.EDU@MSC.CORNELL.EDU
+Jun 21 14:45:16  Jul 21 14:45:16  pop.mercury@MSC.CORNELL.EDU
+***********
+CIT tickets
+***********
+Ticket file:    /tmp/tkt252
+klist: No ticket file (tf_util)
